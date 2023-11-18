@@ -1,0 +1,49 @@
+ 
+ div{
+     position:relative;
+     top:left;
+     width:600px;
+     display:2px 15px;
+     justify-content:space-between;
+     text-align: center;
+     word-spacing:4px;
+     
+    
+ }
+ 
+ .logo{
+      position:relative;
+      font-size: 30px;
+      text-decoration:none;
+      text-transform:uppercase;
+      font-weight:600;
+     
+      
+  }
+  
+    .navigation a{
+      color:white;
+      background-color:green;
+      text-decoration:none;
+      font-weight:500;
+      word-spacing:5px;
+      padding:2px 15px;
+      
+    
+    }
+    .info{
+        color:yellow;
+        background-color:black;
+        font-size:16px;
+        font-weight:500;
+        
+    }
+     .info-btn{
+          color:#fff;
+          background:#226A80;
+          text-decoration:none;
+          text-transform:uppercase ;
+          font-weight:700px;
+          
+      }
+  
